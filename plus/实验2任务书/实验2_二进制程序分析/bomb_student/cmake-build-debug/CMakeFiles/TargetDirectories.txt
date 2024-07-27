@@ -1,0 +1,3 @@
+/Users/a1-6/Downloads/plus/实验2任务书/实验2_二进制程序分析/bomb_student/cmake-build-debug/CMakeFiles/bomb_student.dir
+/Users/a1-6/Downloads/plus/实验2任务书/实验2_二进制程序分析/bomb_student/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a1-6/Downloads/plus/实验2任务书/实验2_二进制程序分析/bomb_student/cmake-build-debug/CMakeFiles/rebuild_cache.dir
